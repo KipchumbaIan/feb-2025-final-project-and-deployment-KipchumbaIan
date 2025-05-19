@@ -1,4 +1,4 @@
-# ShopEase - Wooden Products E-commerce Website
+# kingnetium - Wooden Products E-commerce Website
 
 A modern e-commerce website specializing in handcrafted wooden products, built with HTML5, CSS3, and JavaScript.
 
